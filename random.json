@@ -1,26 +1,216 @@
 {
-    "questions": [
+    "random": [
       {
-        "planete": "p1",
-        "correct": "c11",
-        "choice1": "ch11",
-        "choice2": "ch12",
-        "choice3": "ch13"
+        "question": "Combien y a-t-il d’étoiles dans la Voie lactée ?",
+        "correct": "des millards",
+        "choice1": "des millions",
+        "choice2": "des milliers",
+        "choice3": "des centaines"
 
       },
       {
-        "planete": "p2",
-        "correct": "c21",
-        "choice1": "ch21",
-        "choice2": "ch22",
-        "choice3": "ch23"
+        "question": "Quel est le plus grand objet de l’Univers ?",
+        "correct": "Le Grand Mur d'Hercule-Couronne boréale",
+        "choice1": "La galaxie IC 1101",
+        "choice2": "Soleil",
+        "choice3": "Jupiter"
       },
       {
-        "planete": "p3",
-        "correct": "c31",
-        "choice1": "ch31",
-        "choice2": "ch32",
-        "choice3": "ch33"
+        "question": "Est-ce qu'il y a du son dans l'espace ?",
+        "correct": "Non",
+        "choice1": "null",
+        "choice2": "null",
+        "choice3": "Oui"
+      },
+              {
+        "question": "Quels est le plus grand télescope du monde ?",
+        "correct": "Le VLT (Very Large Telescope)",
+        "choice1": "LBT (Large Binocular Telescope)",
+        "choice2": "Le Salt (Southern African Large Telescope)",
+        "choice3": "Le GTC (Gran Telescopio Canarias)"
+      },
+      {
+        "question": "Quel sont les plus grands océans du Système solaire ?",
+        "correct": "Les océans de Ganymède ",
+        "choice1": "Les océans de Titan",
+        "choice2": "Les océans de Callisto",
+        "choice3": "Les océans de Dione"
+      },      {
+        "question": "Quelle force puissante permet aux trous noirs d'absorber la lumière?",
+        "correct": "La gravité",
+        "choice1": "La fusion nucléaire",
+        "choice2": "Collage nucléaire",
+        "choice3": "Électromagnétisme"
+      },
+      {
+        "question": "Quel est la plus grande constellation ?",
+        "correct": "La Grande Ourse",
+        "choice1": "Le Dragon",
+        "choice2": "L'Hydre ",
+        "choice3": "Éridan"
+      },      {
+        "question": "Comment les scientifiques savent-ils que les trous noirs existent?",
+        "correct": "En observant les objets et la lumière autour des trous noirs",
+        "choice1": "En observant les trous noirs avec de puissants télescopes",
+        "choice2": "En exécutant des expériences sur le soleil",
+        "choice3": "Tout ce qui précède"
+      },
+      {
+        "question": "Comment se forment les trous noirs ?",
+        "correct": "Quand les étoiles géantes explosent",
+        "choice1": "Quand les planètes entrent en collision",
+        "choice2": "Quand les comètes frappent les planètes",
+        "choice3": "Quand les bombes nucléaires explosent"
+      },      {
+        "question": "Où existe-t-il les trous noirs super massifs ?",
+        "correct": "Au centre des galaxies",
+        "choice1": "Au centre du système solaire",
+        "choice2": "À l'intérieur des planètes géantes gazeuses",
+        "choice3": "Tout ce qui précède"
+      },
+      {
+        "question": "Les trous noirs sont invisibles car ils ne reflètent pas la lumière .",
+        "correct": "Oui",
+        "choice1": "null",
+        "choice2": "null",
+        "choice3": "Non"
+      },      {
+        "question": "Comment appelle-t-on la frontière autour d'un trou noir où rien ne peut échapper à sa gravité ?",
+        "correct": "Horizon des événements",
+        "choice1": "Singularité",
+        "choice2": "Frontière Supernova",
+        "choice3": "La grande Muraille"
+      },
+      {
+        "question": "Comment s'appelle notre galaxie ?",
+        "correct": "La Voie lactée",
+        "choice1": "La Voile enchantée",
+        "choice2": "Le Voile d'Acier",
+        "choice3": "Le Voile d'Acier"
+      },      {
+        "question": "Comment s'appelle le centre d'un trou noir ?",
+        "correct": "Singularité",
+        "choice1": "Horizon des événements",
+        "choice2": "Pulsar",
+        "choice3": "Supernova"
+      },
+      {
+        "question": "Qu'est-ce qu'un télescope ?",
+        "correct": "Un appareil permettant de regarder les objets du ciel",
+        "choice1": "Un appareil permettant de diriger un satellite",
+        "choice2": "Un appareil permettant d'envoyer des messages extra-terrestres",
+        "choice3": "Un appareil permettant de voir sous l'eau"
+      },      {
+        "question": "Comment s'appelle-t-elle lorsqu'une étoile vieillissante explose ?",
+        "correct": "Supernova",
+        "choice1": "Pulsar",
+        "choice2": "Singularité",
+        "choice3": "Horizon des événements"
+      },
+      {
+        "question": "Les trous noirs ont été découverts pour la première fois par les astronomes de l'Égypte ancienne vers 3000 avant notre ère.",
+        "correct": "Non",
+        "choice1": "null",
+        "choice2": "null",
+        "choice3": "Oui"
+      },      {
+        "question": "Qu'est-ce qui rend la gravité d'un trou noir si forte ?",
+        "correct": "Sa petite taille et sa grande masse",
+        "choice1": "Les réactions nucléaires au cœur",
+        "choice2": "Il tourne à un rythme plus rapide que la lumière",
+        "choice3": "Sa grande taille et sa petite masse"
+      },
+      {
+        "question": "Combien y a-t-il d'étoiles dans notre système solaire ?",
+        "correct": "Il y a une seule étoile dans le système solaire",
+        "choice1": "Il y a trois étoiles dans le système solaire !",
+        "choice2": "Il y a trente étoiles dans le système solaire !",
+        "choice3": "Notre système solaire comporte 100 000 étoiles !"
+      },      {
+        "question": "Qu'est-ce que la Lune ?",
+        "correct": "Le satellite naturel de la Terre",
+        "choice1": "Une planète",
+        "choice2": "Une astéroïde",
+        "choice3": "Une galaxie lointaine"
+      },
+      {
+        "question": "Combien y a-t-il de planètes dans notre système solaire ?",
+        "correct": "Huit planètes",
+        "choice1": "Une seule planète",
+        "choice2": "Cent planètes",
+        "choice3": "Mille planètes"
+      },      {
+        "question": "Combien y a-t-il de galaxies dans l'Univers, selon les scientifiques ",
+        "correct": "des milliards de milliards",
+        "choice1": "des millions de millions",
+        "choice2": "une cinquantaine",
+        "choice3": "une dizaine"
+      },
+      {
+        "question": "Quel est l'objet qui a le plus de gravité dans l'Univers ?",
+        "correct": "Le trou noir",
+        "choice1": "Une étoile supergéante",
+        "choice2": "Un pulsar",
+        "choice3": "La terre"
+      },      {
+        "question": "Quelle est la principale unité qu'utilisent les scientifiques pour mesurer les distances dans l'Univers ?",
+        "correct": "L'année lumière",
+        "choice1": "Le Kilométe",
+        "choice2": "Le mètre",
+        "choice3": "Le centimètre"
+      },
+      {
+        "question": "Combien y a-t-il de comètes dans notre système solaire ?",
+        "correct": "des miliers",
+        "choice1": "des centaines",
+        "choice2": "des millions",
+        "choice3": "des millards"
+      },      {
+        "question": "De quelle couleur sont les étoiles en fin de vie ?",
+        "correct": "Rouges",
+        "choice1": "Oranges",
+        "choice2": "Jaunes",
+        "choice3": "Bleues"
+      },
+      {
+        "question": "Que font les étoiles 8× plus massives que le Soleil en fin de vie ?",
+        "correct": "Elles explosent",
+        "choice1": "Elles refroidissent lentement",
+        "choice2": "Elles refroidissent brutalement",
+        "choice3": "Rien"
+      },      {
+        "question": "Comment appelle-t-on les trous dans la Lune",
+        "correct": "Cratères",
+        "choice1": "Fonds aérés",
+        "choice2": "Crampes",
+        "choice3": "Trous"
+      },
+      {
+        "question": "La Lune émet sa propre lumière",
+        "correct": "Faux",
+        "choice1": "null",
+        "choice2": "null",
+        "choice3": "Vrai"
+      },      {
+        "question": "Les étoiles sont toujours dans le ciel. Mais, pendant la journée, le ciel est si brillant qu'à cause du soleil, on ne peut pas les voir.",
+        "correct": "Vrai",
+        "choice1": "null",
+        "choice2": "null",
+        "choice3": "Faux"
+      },
+      {
+        "question": "Quelle est la température à la surface du soleil ?",
+        "correct": "6000 degrés Celsius environ",
+        "choice1": "2500 degrés Celsius environ",
+        "choice2": "250 degrés Celsius environ",
+        "choice3": "15 millions de degrés Celsius environ"
+      },      
+      {
+        "question": "De quelle couleur sont les étoiles les plus chaudes",
+        "correct": "Bleues",
+        "choice1": "Vertes",
+        "choice2": "Jaunes",
+        "choice3": "Rouges"
       }
     ]
   }
