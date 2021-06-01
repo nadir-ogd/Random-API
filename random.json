@@ -224,6 +224,20 @@
         "choice1": "Vertes",
         "choice2": "Jaunes",
         "choice3": "Rouges"
+      },
+      {
+        "question": "Comment s'appelle le premier homme qui a marché sur la Lune ?",
+        "correct": "Neil Armstrong",
+        "choice1": "Buzz Aldrin",
+        "choice2": "Alan Bean",
+        "choice3": " Harrison Schmitt"
+      },
+      {
+        "question": "Qui a été la première personne à voyager dans l'espace ?",
+        "correct": "Youri Gagarine",
+        "choice1": "Serge Groussard",
+        "choice2": "Pierre-Henri Simon",
+        "choice3": "David Scott"
       }
     ]
   }
