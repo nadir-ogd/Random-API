@@ -22,7 +22,7 @@
         "choice2": "null",
         "choice3": "Oui"
       },
-              {
+      {
         "question": "Quels est le plus grand télescope du monde ?",
         "correct": "Le VLT (Very Large Telescope)",
         "choice1": "LBT (Large Binocular Telescope)",
@@ -35,7 +35,8 @@
         "choice1": "Les océans de Titan",
         "choice2": "Les océans de Callisto",
         "choice3": "Les océans de Dione"
-      },      {
+      },
+      {
         "question": "Quelle force puissante permet aux trous noirs d'absorber la lumière?",
         "correct": "La gravité",
         "choice1": "La fusion nucléaire",
@@ -48,7 +49,8 @@
         "choice1": "Le Dragon",
         "choice2": "L'Hydre ",
         "choice3": "Éridan"
-      },      {
+      },
+      {
         "question": "Comment les scientifiques savent-ils que les trous noirs existent?",
         "correct": "En observant les objets et la lumière autour des trous noirs",
         "choice1": "En observant les trous noirs avec de puissants télescopes",
@@ -61,7 +63,8 @@
         "choice1": "Quand les planètes entrent en collision",
         "choice2": "Quand les comètes frappent les planètes",
         "choice3": "Quand les bombes nucléaires explosent"
-      },      {
+      },
+      {
         "question": "Où existe-t-il les trous noirs super massifs ?",
         "correct": "Au centre des galaxies",
         "choice1": "Au centre du système solaire",
@@ -74,7 +77,8 @@
         "choice1": "null",
         "choice2": "null",
         "choice3": "Non"
-      },      {
+      },
+      {
         "question": "Comment appelle-t-on la frontière autour d'un trou noir où rien ne peut échapper à sa gravité ?",
         "correct": "Horizon des événements",
         "choice1": "Singularité",
@@ -87,7 +91,8 @@
         "choice1": "La Voile enchantée",
         "choice2": "Le Voile d'Acier",
         "choice3": "Le Voile d'Acier"
-      },      {
+      },
+      {
         "question": "Comment s'appelle le centre d'un trou noir ?",
         "correct": "Singularité",
         "choice1": "Horizon des événements",
@@ -100,7 +105,8 @@
         "choice1": "Un appareil permettant de diriger un satellite",
         "choice2": "Un appareil permettant d'envoyer des messages extra-terrestres",
         "choice3": "Un appareil permettant de voir sous l'eau"
-      },      {
+      },
+      {
         "question": "Comment s'appelle-t-elle lorsqu'une étoile vieillissante explose ?",
         "correct": "Supernova",
         "choice1": "Pulsar",
@@ -113,7 +119,8 @@
         "choice1": "null",
         "choice2": "null",
         "choice3": "Oui"
-      },      {
+      },
+      {
         "question": "Qu'est-ce qui rend la gravité d'un trou noir si forte ?",
         "correct": "Sa petite taille et sa grande masse",
         "choice1": "Les réactions nucléaires au cœur",
@@ -126,7 +133,8 @@
         "choice1": "Il y a trois étoiles dans le système solaire !",
         "choice2": "Il y a trente étoiles dans le système solaire !",
         "choice3": "Notre système solaire comporte 100 000 étoiles !"
-      },      {
+      },
+      {
         "question": "Qu'est-ce que la Lune ?",
         "correct": "Le satellite naturel de la Terre",
         "choice1": "Une planète",
@@ -139,7 +147,8 @@
         "choice1": "Une seule planète",
         "choice2": "Cent planètes",
         "choice3": "Mille planètes"
-      },      {
+      },
+      {
         "question": "Combien y a-t-il de galaxies dans l'Univers, selon les scientifiques ",
         "correct": "des milliards de milliards",
         "choice1": "des millions de millions",
@@ -152,7 +161,8 @@
         "choice1": "Une étoile supergéante",
         "choice2": "Un pulsar",
         "choice3": "La terre"
-      },      {
+      },
+      {
         "question": "Quelle est la principale unité qu'utilisent les scientifiques pour mesurer les distances dans l'Univers ?",
         "correct": "L'année lumière",
         "choice1": "Le Kilométe",
@@ -165,7 +175,8 @@
         "choice1": "des centaines",
         "choice2": "des millions",
         "choice3": "des millards"
-      },      {
+      },
+      {
         "question": "De quelle couleur sont les étoiles en fin de vie ?",
         "correct": "Rouges",
         "choice1": "Oranges",
@@ -178,7 +189,8 @@
         "choice1": "Elles refroidissent lentement",
         "choice2": "Elles refroidissent brutalement",
         "choice3": "Rien"
-      },      {
+      },
+      {
         "question": "Comment appelle-t-on les trous dans la Lune",
         "correct": "Cratères",
         "choice1": "Fonds aérés",
@@ -191,7 +203,8 @@
         "choice1": "null",
         "choice2": "null",
         "choice3": "Vrai"
-      },      {
+      },
+      {
         "question": "Les étoiles sont toujours dans le ciel. Mais, pendant la journée, le ciel est si brillant qu'à cause du soleil, on ne peut pas les voir.",
         "correct": "Vrai",
         "choice1": "null",
