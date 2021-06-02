@@ -6,7 +6,6 @@
         "choice1": "des millions",
         "choice2": "des milliers",
         "choice3": "des centaines"
-
       },
       {
         "question": "Quel est le plus grand objet de l’Univers ?",
@@ -233,11 +232,242 @@
         "choice3": " Harrison Schmitt"
       },
       {
+        "question": "Mettez-vous à la place du Soleil. Dans quelle position est la Terre ?",
+        "correct": "3ème",
+        "choice1": "1ère",
+        "choice2": "8ème",
+        "choice3": "10ème"
+      },
+      {
+        "question": "'une planète telluriqu', C'est une planète composée de .......",
+        "correct": "métaux comme la roche",
+        "choice1": "gaz",
+        "choice2": "sable",
+        "choice3": "glace"
+      },
+      {
+        "question": "Le jour où les rayons directs du Soleil traversent l’équateur céleste s’appelle :",
+        "correct": "l’équinoxe",
+        "choice1": "l’écliptique",
+        "choice2": "le solstice",
+        "choice3": "l’aphélie"
+      },
+      {
         "question": "Qui a été la première personne à voyager dans l'espace ?",
         "correct": "Youri Gagarine",
         "choice1": "Serge Groussard",
         "choice2": "Pierre-Henri Simon",
         "choice3": "David Scott"
+      },
+      {
+        "question": "Qui a inventé le télescope ?",
+        "correct": "Hans Lippershey",
+        "choice1": "Galileo",
+        "choice2": "Johannes Kepler",
+        "choice3": "Hypatia"
+      },      
+      {
+        "question": "Quel terme décrit l’alignement de trois corps célestes ?",
+        "correct": "syzygie",
+        "choice1": "symbologie",
+        "choice2": "suzerainty",
+        "choice3": "grésillement"
+      },
+      {
+        "question": "Comment s’appelle la partie visible du Soleil ?",
+        "correct": "la photosphère",
+        "choice1": "la stratosphère",
+        "choice2": "la lithosphère",
+        "choice3": "l’atmosphère"
+      },
+      {
+        "question": "Qu’est-ce qui fait d’une planète une planète naine ?",
+        "correct": "taille et forme",
+        "choice1": "distance du Soleil",
+        "choice2": "odeur",
+        "choice3": "couleur"
+      },
+      {
+        "question": "Quels sont les deux mouvements de toutes les planètes ?",
+        "correct": "orbite et rotation",
+        "choice1": "roulés et rochés",
+        "choice2": "tourner et crier",
+        "choice3": " tortiller et vaciller"
+      },
+      {
+        "question": "Environ combien de milles (ou de kilomètres) y a-t-il par année-lumière ?",
+        "correct": "5,9 trillions (9,5 trillions de km)",
+        "choice1": "5,9 milliards (9,5 milliards de km)",
+        "choice2": "5,9 millions (9,5 millions de km)",
+        "choice3": "590 000 (950 000 km)"
+      },
+      {
+        "question": "Quel est le nom d’une source radio qui est très loin de la Terre ?",
+        "correct": "quasar",
+        "choice1": "traceur",
+        "choice2": "taser",
+        "choice3": "phaseur"
+      },      
+      {
+        "question": "De quoi est fait le noyau d’une comète ?",
+        "correct": "glace, poussière et matières organiques",
+        "choice1": "hélium et eau",
+        "choice2": "ondes radio",
+        "choice3": "incendie"
+      },
+      {
+        "question": "Avec quel vaisseau américain Neil Armstrong et Edwin Aldrin, Jr. ont-ils atterri sur la lune ?",
+        "correct": "Apollo 11",
+        "choice1": "Apollo 7",
+        "choice2": "Apollo 13",
+        "choice3": "Apollo 17"
+      },
+      {
+        "question": "Quel vaisseau spatial était Laika, la première créature vivante envoyée dans l’espace ?",
+        "correct": "Spoutnik 2",
+        "choice1": "Spoutnik 3",
+        "choice2": "Vostok 1",
+        "choice3": "Apollo 11"
+      },
+      {
+        "question": "Au total, combien de vols spatiaux ont été effectués par Spacelab ?",
+        "correct": "25 vols",
+        "choice1": "20 vols",
+        "choice2": "40 vols",
+        "choice3": "80 vols"
+      },
+      {
+        "question": "L’atmosphère de Mars est principalement composée de :",
+        "correct": "Dioxyde de carbone",
+        "choice1": "Azote",
+        "choice2": "Hélium",
+        "choice3": "Oxygène"
+      },      
+      {
+        "question": "Qui a découvert la nébuleuse du crabe ?",
+        "correct": "John Bevis",
+        "choice1": "John Flamsteed",
+        "choice2": "Ernst Otto Fischer",
+        "choice3": "Charles Messier"
+      },      
+      {
+        "question": "Quelles planètes n’ont pas de satellite naturel ?",
+        "correct": "Mercure et Vénus",
+        "choice1": "Mercure et Neptune",
+        "choice2": "Mercure et Saturne",
+        "choice3": "Uranus et Vénus"
+      },      
+      {
+        "question": "Les zones en forme de beignet de particules chargées hautement énergétiques emprisonnées à des altitudes élevées dans le champ magnétique de la Terre sont connues comme :",
+        "correct": "Ceinture de rayonnement Van Allen",
+        "choice1": "Magnetosheath",
+        "choice2": "Magnetopause",
+        "choice3": "Magnétosphère"
+      },      
+      {
+        "question": "Laquelle d’entre elles comprend les couches intermédiaires d’une étoile à neutrons?",
+        "correct": "Neutrons et état superfluide",
+        "choice1": "Neutrons et état des fluides",
+        "choice2": "Neutrons et état solide",
+        "choice3": "Seuls les neutrons"
+      },      
+      {
+        "question": "Qui a découvert les lois du mouvement planétaire ?",
+        "correct": "Kepler",
+        "choice1": "Galileo",
+        "choice2": "Newton",
+        "choice3": "Copernicus"
+      },      
+      {
+        "question": "Quels sont les nuages de gaz interstellaire et de poussière qui émettent de la lumière de différentes couleurs ?",
+        "correct": "Nébuleuses d’émission",
+        "choice1": "Nébuleuses sombres",
+        "choice2": "Nébuleuses planétaires",
+        "choice3": "Nébuleuses réfléchissantes"
+      },      
+      {
+        "question": "Qu’est-ce qu’un groupe de vieilles étoiles étroitement emballé dans une forme symétrique appelé ?",
+        "correct": "Grappe globulaire",
+        "choice1": "Amas galactique",
+        "choice2": "Grappe ouverte",
+        "choice3": "Amas d’étoiles"
+      },      
+      {
+        "question": "Quel type de télescope est utilisé pour examiner la lune et les autres planètes du système solaire ?",
+        "correct": "Télescope réfractaire",
+        "choice1": "Télescope catadioptrique",
+        "choice2": "Télescope Schmidt",
+        "choice3": "Télescope réfléchissant"
+      },      
+      {
+        "question": "Le nombre de planètes terrestres dans le système solaire est :",
+        "correct": "4",
+        "choice1": "6",
+        "choice2": "8",
+        "choice3": "1"
+      },      
+      {
+        "question": "Lequel d’entre eux a été découvert en 1998 à l’aide de supernovae de type Ia ?",
+        "correct": "Énergie sombre",
+        "choice1": "Matière noire",
+        "choice2": "Trou noir",
+        "choice3": "Amas d’étoiles"
+      },
+      {
+        "question": "Comment s’appelle le centre obscur d’une tache solaire ?",
+        "correct": "Umbra",
+        "choice1": "Penumbra",
+        "choice2": "Tache foncée",
+        "choice3": "Filament"
+      },
+      {
+        "question": "Comment s’appelle la région la plus éloignée de l’atmosphère du Soleil ?",
+        "correct": "Corona",
+        "choice1": "Core",
+        "choice2": "Chromosphère",
+        "choice3": "Penumbra"
+      },
+      {
+        "question": "La quantité de lumière émise par un objet dans une unité de temps s’appelle :",
+        "correct": "Luminosité",
+        "choice1": "Starlight",
+        "choice2": "Rayonnement thématique",
+        "choice3": "Rayonnement du corps noir"
+      },
+      {
+        "question": "Quelle partie du Soleil peut-on voir à l’œil nu ?",
+        "correct": "Photosphère",
+        "choice1": "Chromosphère",
+        "choice2": "Corona",
+        "choice3": "Core"
+      },
+      {
+        "question": "Quel type d’étoile le Soleil classe-t-il ?",
+        "correct": "G2 V star",
+        "choice1": "Étoile de type A",
+        "choice2": "Étoile de type F",
+        "choice3": "Étoile de type K"
+      },      
+      {
+        "question": "Le cas où le Soleil est exactement au-dessus de l’Équateur et le jour et la nuit sont de même longueur s’appelle :",
+        "correct": "Équinoxe de printemps",
+        "choice1": "Début du printemps",
+        "choice2": "Solstice d’été",
+        "choice3": "Solstice d’hiver"
+      },
+      {
+        "question": "Quel axe de planète est presque parallèle à son plan orbital, le faisant tourner presque sur son côté ?",
+        "correct": "Uranus",
+        "choice1": "Jupiter",
+        "choice2": "Saturne",
+        "choice3": "Vénus"
+      },      
+      {
+        "question": "Quel est le terme scientifique utilisé pour le scintillement des étoiles?",
+        "correct": "Scintillation",
+        "choice1": "Parallax",
+        "choice2": "Albedo",
+        "choice3": "Réfraction"
       }
     ]
   }
