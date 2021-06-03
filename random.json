@@ -89,7 +89,7 @@
         "correct": "La Voie lactée",
         "choice1": "La Voile enchantée",
         "choice2": "Le Voile d'Acier",
-        "choice3": "Le Voile d'Acier"
+        "choice3": "La Nébuleuse Noire"
       },
       {
         "question": "Comment s'appelle le centre d'un trou noir ?",
@@ -463,11 +463,242 @@
         "choice3": "Vénus"
       },      
       {
-        "question": "Quel est le terme scientifique utilisé pour le scintillement des étoiles?",
+        "question": "Quel est le terme scientifique utilisé pour le scintillement des étoiles ?",
         "correct": "Scintillation",
         "choice1": "Parallax",
         "choice2": "Albedo",
         "choice3": "Réfraction"
+      },
+      {
+        "question": "La NASA représente la ....... nationale et l’Administration spatiale .",
+        "correct": "Astronomie",
+        "choice1": "Aéronautique",
+        "choice2": "Acrobatique",
+        "choice3": "Avion"
+      },
+      {
+        "question": "La NASA a mis en quarantaine les astronautes qui ont atterri sur la Lune quand ils sont revenus sur Terre ? Pourquoi ?",
+        "correct": "Germes de la lune",
+        "choice1": "Ajustement à la gravité",
+        "choice2": "Étourdissements",
+        "choice3": "Repos"
+      },
+      {
+        "question": "Dans quelle mesure les astronautes « grandissent » dans l’espace ?",
+        "correct": "Un à deux pouces",
+        "choice1": "Environ six pouces",
+        "choice2": "Environ un pied",
+        "choice3": "Ils ne grandissent pas"
+      },
+      {
+        "question": "La limite chandrasekhar est ",
+        "correct": "la masse maximale qu’une étoile naine blanche peut contenir sans devenir un neutron ou un trou noir",
+        "choice1": "la densité minimale d’un trou noir",
+        "choice2": "la masse maximale d’un trou noir",
+        "choice3": "le surnom d’un trou noir"
+      },
+      {
+        "question": "La relativité générale prédit que les trous noirs ont :",
+        "correct": "densité infinie",
+        "choice1": "masse infinie",
+        "choice2": "volume infini",
+        "choice3": "gravité infinie"
+      },
+      {
+        "question": "Lorsque les étoiles meurent, elles deviennent des trous noirs si elles ont des masses d’au moins :",
+        "correct": "Trois fois la masse du soleil",
+        "choice1": "Deux fois la masse du soleil",
+        "choice2": "La même masse du soleil",
+        "choice3": "La moitié de la masse du soleil "
+      },
+      {
+        "question": "Les quasars sont des galaxies lointaines dont les régions centrales sont censées contenir : ",
+        "correct": "Un trou noir qui est bothsupermassive et active",
+        "choice1": "Un trou noir supermassif ",
+        "choice2": "un trou noir actif ",
+        "choice3": "un trou noir mort"
+      },
+      {
+        "question": "Si le soleil était spontanément remplacé par un trou noir de masse égale, la Terre serait aspirée.",
+        "correct": "Faux",
+        "choice1": "null",
+        "choice2": "null",
+        "choice3": "Vrai"
+      },
+      {
+        "question": "Où est la ceinture d’astéroïdes ?",
+        "correct": "Entre Mars et Jupiter",
+        "choice1": "Entre la terre et Mars",
+        "choice2": "Entre Jupiter et Saturne",
+        "choice3": "Entre terre et vénus"
+      },
+      {
+        "question": "De quoi le soleil est-il principalement fait ?",
+        "correct": "Gaz",
+        "choice1": "Fer fondu",
+        "choice2": "Lave liquide",
+        "choice3": "Roche"
+      },
+      {
+        "question": "À quelle planète appartiennent les lunes Oberon et Titania :",
+        "correct": "Uranus",
+        "choice1": "Jupiter",
+        "choice2": "Terre",
+        "choice3": "Vénus"
+      },
+      {
+        "question": "Quels sont les comètes souvent appelées ?",
+        "correct": "Des boules de neige sales",
+        "choice1": "Streakers stupides",
+        "choice2": "Boules de terre crasseuses",
+        "choice3": "Roches"
+      },
+      {
+        "question": "De quoi est constitué le noyau d’une comète ?",
+        "correct": "Glace et poussière",
+        "choice1": "Roche",
+        "choice2": "Espoirs et rêves ",
+        "choice3": "Gaz"
+      },
+      {
+        "question": "Qu’est-ce que le coma d’une comète ?",
+        "correct": "Un nuage de gaz entourant le noyau",
+        "choice1": "La partie la plus assoupie d’une comète ",
+        "choice2": "Pulvérisation de poussières sur le noyau",
+        "choice3": "Un gaz"
+      },
+      {
+        "question": "Combien de queues a une comète ?",
+        "correct": "Deux, une queue ionique et une queue de poussière",
+        "choice1": "Queue à deux ions",
+        "choice2": "Les comtés n’ont pas de queue",
+        "choice3": "Un, une queue ionique"
+      },
+      {
+        "question": "Dans quel sens les deux queues de comète pointent-elles ?",
+        "correct": "Loin du soleil",
+        "choice1": "Vers le soleil",
+        "choice2": "Dans l’espace",
+        "choice3": "Sur terre"
+      },
+      {
+        "question": "D’où viennent les comètes ?",
+        "correct": "Le nuage de Oort",
+        "choice1": "La lune",
+        "choice2": "Mercure",
+        "choice3": "Trou noir"
+      },
+      {
+        "question": "Les orbites des planètes sont-elles sur le même plan ?",
+        "correct": "Oui, plus ou moins",
+        "choice1": "null",
+        "choice2": "null",
+        "choice3": "Non, ils sont partout"
+      },
+      {
+        "question": "Pour peser environ deux tiers de moins que ce que vous faites sur Terre, sur quelle planète seriez-vous ?",
+        "correct": "Mars",
+        "choice1": "Uranus",
+        "choice2": "Vénus",
+        "choice3": "Jupiter"
+      },
+      {
+        "question": "Quel âge a le système solaire ?",
+        "correct": "5 milliards d’années",
+        "choice1": "50 millions d’années",
+        "choice2": "500 milles d’années",
+        "choice3": "5000 ans"
+      },
+      {
+        "question": "Lequel des suivants crée les émissions de lumière que nous voyons dans les aurores planétaires ?",
+        "correct": "Particules stellaires chargées frappant l’atmosphère",
+        "choice1": "L’étoile ou la couronne du soleil",
+        "choice2": "Un champ magnétique autour de la planète",
+        "choice3": "Le rayonnement de fond cosmique"
+      },
+      {
+        "question": "La galaxie Pinwheel est une sorte de galaxie spirale.",
+        "correct": "Vrai",
+        "choice1": "null",
+        "choice2": "null",
+        "choice3": "Faux"
+      },
+      {
+        "question": "La plupart des galaxies ne contiennent que quelques douzaines d’étoiles.",
+        "correct": "Faux",
+        "choice1": "null",
+        "choice2": "null",
+        "choice3": "Vrai"
+      },
+      {
+        "question": "Quelle couleur d’étoile est la plus chaude ?",
+        "correct": "Blanc",
+        "choice1": "Rouge",
+        "choice2": "Jaune",
+        "choice3": "Bleu"
+      },
+      {
+        "question": "De quoi sont composées principalement les étoiles ?",
+        "correct": "Liquide chaud",
+        "choice1": "Gaz chaud",
+        "choice2": "Particules de poussière",
+        "choice3": "Roche"
+      },
+      {
+        "question": "Comment le Soleil produit-il de l’énergie ?",
+        "correct": "Par fusion nucléaire",
+        "choice1": "En brûlant du charbon ",
+        "choice2": "Par fission nucléaire ",
+        "choice3": "Avec un chauffage électrique"
+      },
+      {
+        "question": "Quel est un modèle d’étoiles identifiables dans le ciel nocturne appelé?",
+        "correct": "Constellation",
+        "choice1": "Supernova",
+        "choice2": "Galaxy",
+        "choice3": "Nébuleuse"
+      },
+      {
+        "question": "Le mot 'galaxie' vient du mot grec pour le lait .",
+        "correct": "Vrai",
+        "choice1": "null",
+        "choice2": "null",
+        "choice3": "Faux"
+      },
+      {
+        "question": "Pour qu’une exo-lune puisse supporter la vie, elle doit",
+        "correct": "Ne pas être très proche de la planète mère",
+        "choice1": "Recevoir à peu près la même quantité d’énergie de son étoile que la Terre reçoit du soleil",
+        "choice2": "Avoir les éléments hydrogène, carbone, oxygène, azote, phosphore et soufre",
+        "choice3": "Tout ce qui précède"
+      },
+      {
+        "question": "Les étoiles filantes, c’est quoi ?",
+        "correct": "Comètes",
+        "choice1": "Météores",
+        "choice2": "Satelites",
+        "choice3": "Étoiles"
+      },
+      {
+        "question": "Comment appelons-nous les objets artificiels qui orbitent autour de la Terre et photographient le temps ?",
+        "correct": "Les satellites météorologiques",
+        "choice1": "Stations spatiales",
+        "choice2": "Navettes",
+        "choice3": "Satellites naturels"
+      },
+      {
+        "question": "Comment appelle-t-on le Soleil et tous les objets spatiaux en orbite autour de lui ?",
+        "correct": "Le système solaire",
+        "choice1": "La Galaxie",
+        "choice2": "L’univers",
+        "choice3": "Le ciel"
+      },      
+      {
+        "question": "Quelle planète a les anneaux les plus visibles ?",
+        "correct": "Saturne",
+        "choice1": "Jupiter",
+        "choice2": "Uranus",
+        "choice3": "Vénus"
       }
     ]
   }
