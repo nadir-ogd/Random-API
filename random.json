@@ -16,8 +16,8 @@
       {
         "question": "Est-ce qu'il y a du son dans l'espace ?",
         "correct": "Non",
-        "choice1": "null",
-        "choice2": "null",
+        "choice1": null,
+        "choice2": null,
         "choice3": "Oui"
       },
       {
@@ -72,8 +72,8 @@
       {
         "question": "Les trous noirs sont invisibles car ils ne reflètent pas la lumière .",
         "correct": "Oui",
-        "choice1": "null",
-        "choice2": "null",
+        "choice1": null,
+        "choice2": null,
         "choice3": "Non"
       },
       {
@@ -114,8 +114,8 @@
       {
         "question": "Les trous noirs ont été découverts pour la première fois par les astronomes de l'Égypte ancienne vers 3000 avant notre ère.",
         "correct": "Non",
-        "choice1": "null",
-        "choice2": "null",
+        "choice1": null,
+        "choice2": null,
         "choice3": "Oui"
       },
       {
@@ -198,15 +198,15 @@
       {
         "question": "La Lune émet sa propre lumière",
         "correct": "Faux",
-        "choice1": "null",
-        "choice2": "null",
+        "choice1": null,
+        "choice2": null,
         "choice3": "Vrai"
       },
       {
         "question": "Les étoiles sont toujours dans le ciel. Mais, pendant la journée, le ciel est si brillant qu'à cause du soleil, on ne peut pas les voir.",
         "correct": "Vrai",
-        "choice1": "null",
-        "choice2": "null",
+        "choice1": null,
+        "choice2": null,
         "choice3": "Faux"
       },
       {
@@ -520,8 +520,8 @@
       {
         "question": "Si le soleil était spontanément remplacé par un trou noir de masse égale, la Terre serait aspirée.",
         "correct": "Faux",
-        "choice1": "null",
-        "choice2": "null",
+        "choice1": null,
+        "choice2": null,
         "choice3": "Vrai"
       },
       {
@@ -590,8 +590,8 @@
       {
         "question": "Les orbites des planètes sont-elles sur le même plan ?",
         "correct": "Oui, plus ou moins",
-        "choice1": "null",
-        "choice2": "null",
+        "choice1": null,
+        "choice2": null,
         "choice3": "Non, ils sont partout"
       },
       {
@@ -618,15 +618,15 @@
       {
         "question": "La galaxie Pinwheel est une sorte de galaxie spirale.",
         "correct": "Vrai",
-        "choice1": "null",
-        "choice2": "null",
+        "choice1": null,
+        "choice2": null,
         "choice3": "Faux"
       },
       {
         "question": "La plupart des galaxies ne contiennent que quelques douzaines d’étoiles.",
         "correct": "Faux",
-        "choice1": "null",
-        "choice2": "null",
+        "choice1": null,
+        "choice2": null,
         "choice3": "Vrai"
       },
       {
@@ -660,8 +660,8 @@
       {
         "question": "Le mot 'galaxie' vient du mot grec pour le lait .",
         "correct": "Vrai",
-        "choice1": "null",
-        "choice2": "null",
+        "choice1": null,
+        "choice2": null,
         "choice3": "Faux"
       },
       {
