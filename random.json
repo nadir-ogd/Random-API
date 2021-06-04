@@ -1,5 +1,4 @@
-{
-    "random": [
+[
       {
         "question": "Combien y a-t-il d’étoiles dans la Voie lactée ?",
         "correct": "des millards",
@@ -700,5 +699,4 @@
         "choice2": "Uranus",
         "choice3": "Vénus"
       }
-    ]
-  }
+]
