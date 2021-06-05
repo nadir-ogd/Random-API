@@ -49,7 +49,7 @@
         "choice3": "Éridan"
       },
       {
-        "question": "Comment les scientifiques savent-ils que les trous noirs existent?",
+        "question": "Comment les scientifiques savent-ils que les trous noirs existent ?",
         "correct": "En observant les objets et la lumière autour des trous noirs",
         "choice1": "En observant les trous noirs avec de puissants télescopes",
         "choice2": "En exécutant des expériences sur le soleil",
@@ -112,7 +112,7 @@
         "choice3": "Horizon des événements"
       },
       {
-        "question": "Les trous noirs ont été découverts pour la première fois par les astronomes de l'Égypte ancienne vers 3000 avant notre ère.",
+        "question": "Les trous noirs ont été découverts pour la première fois par les astronomes de l'Égypte ancienne vers 3000 avant notre ère .",
         "correct": "Non",
         "choice1": null,
         "choice2": null,
@@ -203,7 +203,7 @@
         "choice3": "Vrai"
       },
       {
-        "question": "Les étoiles sont toujours dans le ciel. Mais, pendant la journée, le ciel est si brillant qu'à cause du soleil, on ne peut pas les voir.",
+        "question": "Les étoiles sont toujours dans le ciel. Mais, pendant la journée, le ciel est si brillant qu'à cause du soleil, on ne peut pas les voir .",
         "correct": "Vrai",
         "choice1": null,
         "choice2": null,
@@ -511,14 +511,14 @@
         "choice3": "La moitié de la masse du soleil "
       },
       {
-        "question": "Les quasars sont des galaxies lointaines dont les régions centrales sont censées contenir : ",
+        "question": "Les quasars sont des galaxies lointaines dont les régions centrales sont censées contenir :",
         "correct": "Un trou noir qui est bothsupermassive et active",
         "choice1": "Un trou noir supermassif ",
         "choice2": "un trou noir actif ",
         "choice3": "un trou noir mort"
       },
       {
-        "question": "Si le soleil était spontanément remplacé par un trou noir de masse égale, la Terre serait aspirée.",
+        "question": "Si le soleil était spontanément remplacé par un trou noir de masse égale, la Terre serait aspirée .",
         "correct": "Faux",
         "choice1": null,
         "choice2": null,
@@ -623,7 +623,7 @@
         "choice3": "Faux"
       },
       {
-        "question": "La plupart des galaxies ne contiennent que quelques douzaines d’étoiles.",
+        "question": "La plupart des galaxies ne contiennent que quelques douzaines d’étoiles .",
         "correct": "Faux",
         "choice1": null,
         "choice2": null,
@@ -651,7 +651,7 @@
         "choice3": "Avec un chauffage électrique"
       },
       {
-        "question": "Quel est un modèle d’étoiles identifiables dans le ciel nocturne appelé?",
+        "question": "Quel est un modèle d’étoiles identifiables dans le ciel nocturne appelé ?",
         "correct": "Constellation",
         "choice1": "Supernova",
         "choice2": "Galaxy",
